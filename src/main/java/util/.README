@@ -1,0 +1,4 @@
+This package will house our Helper utility file which will help us with things such as:
+- email validation
+- Unique ID Generation
+- and overall make building class objects faster and more efficient
